@@ -5,7 +5,7 @@ using historical traffic, weather and temporal features.
 
 ## 🚀 Live Demo
 
-[▶ Open Traffic Prediction App]
+[▶ Open Traffic Prediction App : https://uberproject-ccjxsyk4ro86jahepdrijd.streamlit.app/]
 
 ## 📌 Problem Statement
 
